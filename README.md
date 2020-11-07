@@ -13,4 +13,4 @@ Gotta start somewhere..!
 - The goal is to finish this project from start to finish within 7 days, starting 07/11/2020.
 
 #Worklog
-- 07/11/2020	Project setup initial Level design
+- 07/11/2020	Project setup and initial level design
